@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@joinwithsatish" target="blank"><img src="https://img.shields.io/twitter/follow/@joinwithsatish?logo=twitter&style=for-the-badge" alt="@joinwithsatish" /></a> </p>
 
-- 📝 I regularly write articles on [s4satishkumar.hashnode.dev](s4satishkumar.hashnode.dev)
+- 📝 I regularly write articles on ([s4satishkumar.hashnode.dev](https://s4satishkumar.hashnode.dev/))
 
 - 📫 How to reach me **satish@techindiaguider.com**
 
@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/s4satishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/s4satishkumar" height="30" width="40" /></a>
+<a href="https://dev.to/s4satishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/s4satishkumar" height="30" width="40" /></a>
 <a href="https://twitter.com/@joinwithsatish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joinwithsatish" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/s4satishkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s4satishkumar/" height="30" width="40" /></a>
 <a href="https://s4satishkumar.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://s4satishkumar.hashnode.dev/" height="30" width="40" /></a>
 <a href="https://medium.com/@s4satishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@s4satishkumar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@s4satishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@s4satishkumar" height="30" width="40" /></a>
-<a href="https://https://leetcode.com/s4satishkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/s4satishkumar/" height="30" width="40" /></a>
+<a href="https://leetcode.com/S4satishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/S4satishkumar/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
